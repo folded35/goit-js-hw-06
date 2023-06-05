@@ -4,3 +4,5 @@ const nameOutput = document.getElementById("name-output");
 nameInput.addEventListener("input", () => {
   nameOutput.textContent = nameInput.value || "Anonymous";
 });
+
+// the end //

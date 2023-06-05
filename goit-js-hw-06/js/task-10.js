@@ -32,4 +32,4 @@ function getRandomHexColor() {
     .padStart(6, 0)}`;
 }
 
-
+// the end //

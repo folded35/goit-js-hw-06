@@ -9,3 +9,4 @@ categoriesItems.forEach((item) => {
   console.log(`Category: ${categoryTitle}`);
   console.log(`Elements: ${categoryItemsCount}`);
 });
+// the end //

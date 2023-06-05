@@ -26,3 +26,5 @@ const createGalleryItem = (image) => {
 const galleryMarkup = images.map(createGalleryItem).join("");
 
 gallery.insertAdjacentHTML("beforeend", galleryMarkup);
+
+// the end //

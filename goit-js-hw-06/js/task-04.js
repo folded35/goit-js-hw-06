@@ -17,3 +17,5 @@ incrementBtn.addEventListener("click", () => {
   currentValue += 1;
   updateCounterValue();
 });
+
+// the end //
